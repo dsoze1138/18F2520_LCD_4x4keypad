@@ -1,0 +1,11 @@
+# Swordfish BASIC compiler
+# =========================
+*.asm
+*.scl
+*.sfp
+*.cof
+*.hex
+*.idf
+*.lst
+*.lnk
+archive/
